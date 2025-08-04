@@ -1,4 +1,7 @@
 # Rework murphy_interact by: AxeelWZ
+- Added the ability to see the interact ping without having to press Left Alt.
+- Added ```PressKey = false``` to settings.lua
+- Fixed E when the interaction was visible (previously, it didn't allow the ability to interact with, for example, horses when you were within the interact range.)
 
 # World Interactions
 Create interaction points in the world with selectable options adapted for RedM.
