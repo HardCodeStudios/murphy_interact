@@ -15,7 +15,7 @@ Create interaction points in the world with selectable options adapted for RedM.
 
 [Snipe](https://github.com/pushkart2)
 
-[murphy](https://github.com/levraimurphy))
+[murphy](https://github.com/levraimurphy)
 
 # Guides & Information
 
