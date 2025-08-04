@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Murphy_Interact" src="https://github.com/user-attachments/assets/53100623-d4af-4aea-9ec7-8be9902743a9" />
+
 # Reworked murphy_interact by: AxeelWZ
 - Added the ability to see the interact ping without having to press ```Left Alt```.
 - Added ```PressKey = false``` to settings.lua
