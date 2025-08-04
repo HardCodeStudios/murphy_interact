@@ -1,3 +1,5 @@
+Rework murphy_interact by: AxeelWZ
+
 restream les texture a la main
 
 
@@ -12,6 +14,8 @@ Create interaction points in the world with selectable options adapted for RedM.
 [Zoo](https://github.com/FjamZoo)
 
 [Snipe](https://github.com/pushkart2)
+
+[murphy]([https://github.com/pushkart2](https://github.com/levraimurphy))
 
 # Guides & Information
 
